@@ -1,17 +1,31 @@
-### Hi there 👋
+Here are concise GitHub profile summaries for AI, Rag, LLM, and DevOps engineers, now with emojis:
 
-I am an experienced software engineer. 
-<!--
-**marko-djordjevic-dev/marko-djordjevic-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer 🤖
+**Summary:** Creating intelligent systems using machine learning and data analysis.  
+**Skills:** Python, TensorFlow, data preprocessing.  
+**Projects:** Sentiment analysis model, e-commerce recommendation system.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Rag Engineer 📚
+**Summary:** Building systems that enhance content generation with retrieval-augmented techniques.  
+**Skills:** NLP, Python, API integration.  
+**Projects:** RAG-based chatbot, content generation tool.
+
+---
+
+### LLM Engineer 📝
+**Summary:** Developing and fine-tuning large language models for diverse applications.  
+**Skills:** Python, deep learning, model optimization.  
+**Projects:** Domain-specific text generation, AI writing assistant.
+
+---
+
+### DevOps Engineer 🚀
+**Summary:** Automating processes and improving collaboration between development and operations.  
+**Skills:** CI/CD, Docker, cloud services.  
+**Projects:** CI/CD pipeline implementation, infrastructure monitoring solutions.
+
+---
+
+Feel free to use or tweak these as needed for your GitHub profile!
